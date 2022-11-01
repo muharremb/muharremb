@@ -1,4 +1,4 @@
-### Hi all 👋
+### Hi there, I am Muharrem. 👋
 
 I am a trader-turned-software engineer who loves Python and JavaScript. After working for nine years as an emerging markets rate and fx trader, I left Morgan Stanley to pursue a software development career.  I self-taught Python, finished an immerse full stack developer program. During the program I built three projects using different languages and backend frameworks which all you can see in my profile. 
 
